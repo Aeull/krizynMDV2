@@ -19,7 +19,7 @@ Terimakasih yang sudah mendonasikan untuk bot
 Contact person Owner:
 wa.me/${numberowner} (Owner)
 
-*donasi via follow ig juga boleh*`
+*donasi via Subscribe juga boleh*`
   conn.sendButtonImg(m.chat, fla + teks, anu, instagram, 'Back', '.help', m) 
 }
 handler.help = ['donasi', 'donate']
