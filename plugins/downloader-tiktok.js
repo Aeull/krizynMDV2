@@ -1,16 +1,19 @@
-// RECODE ARULLOFC
+import { tiktokdl } from '@bochilteam/scraper'
 
-let fetch = require('node-fetch')
-let fs = require('fs')
-let handler = async(m, { conn, usedPrefix, text, command }) => {
-    if (!text) throw `Harap masukkan URL sebagai parameter.\n\nContoh: ${usedPrefix + command} https://vt.tiktok.com/ZSeSCAN1W/`
-    let res = await fetch(global.API('rey', '/api/download/tiktok', { url: text }, 'apikey'))
-    if (!res.ok) throw await `${res.status} ${res.statusText}`
-    let json = await res.json()
-    await conn.sendButtonVid(m.chat, json.result.nowatermark, 'Nih Kak', watermark, 'Thanks', `Thanks`, m)
+let handler = async (m, { conn, args, usedPrefix, command }) => {
+if (!args[0]) throw `Gunakan contoh ${usedPrefix}${command} https://www.tiktok.com/@omagadsus/video/7025456384175017243`
+    const { author: { nickname }, video, description } = await tiktokdl(args[0])
+    const url = video.no_watermark || video.no_watermark2 || video.no_watermark_raw
+    if (!url) throw 'Can\'t download video!'
+    conn.sendFile(m.chat, url, 'tiktok.mp4', `*TIKTOK DOWNLOADER*
+*Nickname:* ${nickname}
+*Description:* ${description}
+
+_©BotzArull_
+`.trim(), m)
 }
-handler.command = /^tiktok$/i
+handler.help = ['tiktok', 'tiktok', 'tiktokdl'].map(v => v + ' <url>')
 handler.tags = ['downloader']
-handler.help = ['tiktok']
-handler.limit = true
-module.exports = handler
+handler.command = /^(tik(tok)?(tok)?(dl)?)$/i
+
+export default handler
