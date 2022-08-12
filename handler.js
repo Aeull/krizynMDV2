@@ -710,7 +710,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup @user').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang @user!')).replace('@user', '@' + user.split('@')[0])
-                                this.sendButtonImg(id, pp, text, "𝙈𝙚𝙨𝙖𝙜𝙚 𝘽𝙮 𝘼𝙧𝙪𝙡𝙡𝙊𝙛𝙘", "Tampilan Menu", ".menu", null)
+                                this.sendButtonImg(id, pp, text, "𝙈𝙚𝙨𝙖𝙜𝙚 𝘽𝙮 𝘼𝙧𝙪𝙡𝙡𝙊𝙛𝙘", "Menu ArullBotz", ".menu", null)
                                 }
                     }
                 }
