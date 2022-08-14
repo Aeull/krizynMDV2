@@ -6,21 +6,21 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
-global.mods = ['6285822347348'] 
-global.prems = ['6285822347348'] 
+global.owner = ['6285669833748'] 
+global.mods = ['6285669833748'] 
+global.prems = ['6285669833748'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc ✰'
-global.numberowner = '6285822347348'
+global.nameowner = 'AdamOfc ✰'
+global.numberowner = '6285669833748'
 global.instagram = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
 global.github = 'https://github.com/warikrr'
-global.dana = '085822347348'
-global.pulsa = '085822347348'
+global.dana = ''
+global.pulsa = '085669833748'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
+global.namebot = 'Xdam-Bot'
 global.gc = 'https://youtu.be/pzx9TquOg0M'
 global.web = 'https://youtu.be/IL2PZql859c' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://saweria.co/arullOfc'
@@ -31,10 +31,10 @@ global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻ArullBotz𝙼𝙳'
+global.wm = 'Xdam-Bot'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ArullOfc ×፝֟͜×'
-global.wm3 = 'ᯤ Arull𝙾𝙵𝙲'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 AdamOfc ×፝֟͜×'
+global.wm3 = 'ᯤ AdamOfc'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg'
@@ -45,7 +45,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = '@ArullOfc✵'
+global.author = '@AdamOfc✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
