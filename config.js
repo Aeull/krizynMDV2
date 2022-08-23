@@ -6,21 +6,21 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285669833748'] 
-global.mods = ['6285669833748'] 
-global.prems = ['6285669833748'] 
+global.owner = ['6288293200090'] 
+global.mods = ['6288293200090'] 
+global.prems = ['6288293200090'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'AdamOfc ✰'
-global.numberowner = '6285669833748'
+global.nameowner = 'Bot'
+global.numberowner = '6288293200090'
 global.instagram = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
 global.github = 'https://github.com/warikrr'
 global.dana = ''
-global.pulsa = '085669833748'
+global.pulsa = '088293200090'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Xdam-Bot'
+global.namebot = 'Bot'
 global.gc = 'https://youtu.be/pzx9TquOg0M'
 global.web = 'https://youtu.be/IL2PZql859c' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://saweria.co/arullOfc'
@@ -33,8 +33,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Xdam-Bot'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 AdamOfc ×፝֟͜×'
-global.wm3 = 'ᯤ AdamOfc'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Bot'
+global.wm3 = 'Bot'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/5fda34aec1d09f45f5a0b.jpg'
@@ -45,7 +45,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = '@AdamOfc✵'
+global.author = '@Bot'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
