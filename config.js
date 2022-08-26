@@ -11,7 +11,7 @@ global.mods = ['6285669833748']
 global.prems = ['6285669833748'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Bot'
+global.nameowner = 'AdamOfc'
 global.numberowner = '6285669833748'
 global.instagram = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
 global.github = 'https://github.com/warikrr'
@@ -20,7 +20,7 @@ global.pulsa = '6285669833748'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Bot'
+global.namebot = 'Adam_BotMD'
 global.gc = 'https://youtu.be/pzx9TquOg0M'
 global.web = 'https://youtu.be/IL2PZql859c' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://saweria.co/arullOfc'
@@ -33,7 +33,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Xdam-Bot'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Bot'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 AdamBot'
 global.wm3 = 'Bot'
 global.htki = '––––––『' 
 global.htka = '』––––––'
