@@ -6,17 +6,17 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6288293200090'] 
-global.mods = ['6288293200090'] 
-global.prems = ['6288293200090'] 
+global.owner = ['6285669833748'] 
+global.mods = ['6285669833748'] 
+global.prems = ['6285669833748'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Bot'
-global.numberowner = '6288293200090'
+global.numberowner = '6285669833748'
 global.instagram = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
 global.github = 'https://github.com/warikrr'
 global.dana = ''
-global.pulsa = '088293200090'
+global.pulsa = '6285669833748'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
