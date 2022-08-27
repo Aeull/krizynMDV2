@@ -6,21 +6,21 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285669833748'] 
-global.mods = ['6285669833748'] 
-global.prems = ['6285669833748'] 
+global.owner = ['62895370925874'] 
+global.mods = ['62895370925874'] 
+global.prems = ['62895370925874'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'AdamOfc'
-global.numberowner = '6285669833748'
+global.nameowner = 'CAKAMARA'
+global.numberowner = '62895370925874'
 global.instagram = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
 global.github = 'https://github.com/warikrr'
 global.dana = ''
-global.pulsa = '6285669833748'
+global.pulsa = '62895370925874'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Adam_BotMD'
+global.namebot = 'CAKAMARA'
 global.gc = 'https://youtu.be/pzx9TquOg0M'
 global.web = 'https://youtu.be/IL2PZql859c' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://saweria.co/arullOfc'
@@ -31,9 +31,9 @@ global.fotonya1 = 'https://telegra.ph/file/5fda34aec1d09f45f5a0b.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/5fda34aec1d09f45f5a0b.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Xdam-Bot'
+global.wm = 'CAKAMARA'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 AdamBot'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 CAKAMARA'
 global.wm3 = 'Bot'
 global.htki = '––––––『' 
 global.htka = '』––––––'
