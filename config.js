@@ -6,22 +6,22 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['62895370925874'] 
-global.mods = ['62895370925874'] 
-global.prems = ['62895370925874'] 
+global.owner = ['6285822347348'] 
+global.mods = ['6285822347348'] 
+global.prems = ['6285822347348'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'CAKAMARA'
-global.numberowner = '62895370925874'
+global.nameowner = 'Arull'
+global.numberowner = '6285822347348'
 global.instagram = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
 global.github = 'https://github.com/warikrr'
-global.dana = ''
-global.pulsa = '62895370925874'
+global.dana = '085822347348'
+global.pulsa = '085822347348'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'CAKAMARA'
-global.gc = 'https://youtu.be/pzx9TquOg0M'
+global.namebot = 'ArullBotz'
+global.gc = 'https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe'
 global.web = 'https://youtu.be/IL2PZql859c' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://saweria.co/arullOfc'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 5.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 10.000\nMAKSIMAL 1 GRUP \n》 Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
@@ -31,10 +31,10 @@ global.fotonya1 = 'https://telegra.ph/file/5fda34aec1d09f45f5a0b.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/5fda34aec1d09f45f5a0b.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'CAKAMARA'
+global.wm = 'ArullBotz'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 CAKAMARA'
-global.wm3 = 'Bot'
+global.wm2 = 'ᯤARULL'
+global.wm3 = 'Botz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/5fda34aec1d09f45f5a0b.jpg'
@@ -45,7 +45,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = '@Bot'
+global.author = '@ArullBotz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
