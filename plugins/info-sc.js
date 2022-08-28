@@ -6,10 +6,13 @@ Knp kak ${ye} Lagi Nyari Sc Ya?
 𝘊𝘈𝘙𝘐 𝘈𝘑𝘈 𝘋𝘐 𝘠𝘖𝘜 𝘛𝘜𝘉𝘌
 
 𝚈𝙾𝚄 𝚃𝚄𝙱𝙴 :
-https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg
+https://youtu.be/NmP2bAEOI9g
 
 JOIN GC BOT:
-https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS`
+•GC¹
+https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe
+•GC²
+https://chat.whatsapp.com/LHfAOQ4sa2g40Bu5sXDWva`
 
 conn.sendBut(m.chat, esce, 'Jangan Lupa subscribe ', 'Thanks', '.menu', m) 
 }
