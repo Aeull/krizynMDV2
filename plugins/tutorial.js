@@ -10,13 +10,13 @@ https://heroku.com ( *BUAT AKUN HEROKU DULU* ) => sesuaikan Imail anda
 ▸ *Untuk Sc nya cari sendiri, atau pakai sc ku ( SC KU SERING MENAMBAH FITUR )*
 
 ▸ *scan kode untuk mengambil session*
-1) Buka yt => Cara mengambil session tanpa termux ( AMBIL DI YT ZEEONEOFC )
+1) Buka yt => Cara mengambil session tanpa termux ( AMBIL DI YT ARULL OFC )
 2) biasanya link untuk scan ada di pin komen
 3) trus pakai mode desktop
 4) ada di atas tombol yg hijau klik aja
 5) terus tunggu beberapa menit sampai kode QR keluar
 6) kalau dah keluar scan aja
-7) session di kirim di WhatsApp centang ijo,kalian salin aja
+7) session di kirim di WhatsApp centang ijo,kalian salin aja (KALO G FAHAM SIMAK AJ VIDEONYA BAIK")
 
 ▸ *Github*
 8) kalau SC nya sudah ketemu kalian klik aja link SC nya
