@@ -9,7 +9,7 @@ Knp kak ${ye} Lagi Nyari Sc Ya?
 https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg
 
 JOIN GC BOT:
-https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS
+https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS`
 
 conn.sendBut(m.chat, esce, 'Jangan Lupa subscribe ', 'Thanks', '.menu', m) 
 }
