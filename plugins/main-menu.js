@@ -322,7 +322,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             description: menuu,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "☰Silahkan Pilih Menu Dibawah",
+            footerText: "☰𝐂𝐑𝐄𝐀𝐓𝐎𝐑 𝐁𝐘 𝐀𝐑𝐔𝐋𝐋",
             mtype: 'listMessage',
             sections: [
               {
