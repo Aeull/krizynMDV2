@@ -328,128 +328,128 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
               {
       
                 "rows": [{
-                  "title": `☰ ALL MENU`,
-                  "description": "Menampilkan Menu All",
+                  "title": `𝘼𝙇𝙇 𝙈𝙀𝙉𝙐`,
+                  "description": "Menampilkan Menu All ArullBotz",
                   "rowId": '.? all'
                   }, {
-                  "title": "☰ ABSEN MENU",
-                  "description": "Menampilkan Menu Absen",
+                  "title": "𝙈𝙀𝙉𝙐 𝘼𝘽𝙎𝙀𝙉",
+                  "description": "Menampilkan Menu Absen ArullBotz",
                   "rowId": `${_p}? absen`
                 }, {
-                  "title": "☰ ANIME MENU",
-                  "description": "Menampilkan Menu Anime",
+                  "title": "𝙈𝙀𝙉𝙐 𝘼𝙉𝙄𝙈𝙀",
+                  "description": "Menampilkan Menu Anime ArullBotz",
                   "rowId": `${_p}? anime`
                 }, {
-                  "title": "☰ STICKER  MENU",
-                  "description": "Menampilkan Menu Sticker",
+                  "title": "𝙈𝙀𝙉𝙐 𝙎𝙏𝙄𝘾𝙆𝙀𝙍",
+                  "description": "Menampilkan Menu Sticker ArullBotz",
                   "rowId": `${_p}? sticker`
                 }, {
-                  "title": "☰ DOWNLOAD MENU",
-                  "description": "Menampilkan Menu Downloader",
+                  "title": "𝙈𝙀𝙉𝙐 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿",
+                  "description": "Menampilkan Menu Downloader ArullBotz",
                   "rowId": `${_p}? downloader`
                 }, {
-                  "title": "☰ EXP & LIMIT MENU",
-                  "description": "Menampilkan Menu Exp",
+                  "title": "𝙈𝙀𝙉𝙐 𝙀𝙓𝙋 & 𝙇𝙄𝙈𝙄𝙏",
+                  "description": "Menampilkan Menu Exp ArullBotz",
                   "rowId": `${_p}? xp`
                 }, {
-                  "title": "☰ FUN MENU",
-                  "description": "Menampilkan Menu Fun",
+                  "title": "𝙈𝙀𝙉𝙐 𝙁𝙐𝙉",
+                  "description": "Menampilkan Menu Fun ArullBotz",
                   "rowId": `${_p}? fun`
                 }, {
-                  "title": "☰ GAME MENU",
-                  "description": "Menampilkan Menu Game",
+                  "title": "𝙈𝙀𝙉𝙐 𝙂𝘼𝙈𝙀",
+                  "description": "Menampilkan Menu Game ArullBotz",
                   "rowId": `${_p}? game`
                 }, {
-                  "title": "☰ GITHUB MENU",
-                  "description": "Menampilkan Menu Github",
+                  "title": "𝙈𝙀𝙉𝙐 𝙂𝙄𝙏𝙃𝙐𝘽",
+                  "description": "Menampilkan Menu Github ArullBotz",
                   "rowId": `${_p}? github`
                 }, {
-                  "title": "☰ GROUP MENU",
-                  "description": "Menampilkan Menu Group",
+                  "title": "𝙈𝙀𝙉𝙐 𝙂𝙍𝙊𝙐𝙋",
+                  "description": "Menampilkan Menu Group ArullBotz",
                   "rowId": `${_p}? group`
                 }, {
-                  "title": "☰ IMAGE MENU",
-                  "description": "Menampilkan Menu Image",
+                  "title": "𝙈𝙀𝙉𝙐 𝙄𝙈𝘼𝙂𝙀",
+                  "description": "Menampilkan Menu Image ArullBotz",
                   "rowId": `${_p}? image`
                 }, {
-                  "title": "☰ INTERNET MENU",
-                  "description": "Menampilkan Menu Internet",
+                  "title": "𝙈𝙀𝙉𝙐 𝙄𝙉𝙏𝙀𝙍𝙉𝙀𝙏",
+                  "description": "Menampilkan Menu Internet ArullBotz",
                   "rowId": `${_p}? internet`
                 }, {
-                  "title": "☰ ISLAMIC MENU",
-                  "description": "Menampilkan Menu Islam",
+                  "title": "𝙈𝙀𝙉𝙐 𝙄𝙎𝙇𝘼𝙈",
+                  "description": "Menampilkan Menu Islam ArullBotz",
                   "rowId": `${_p}? islam`
                 }, {
-                  "title": "☰ KERANG MENU",
-                  "description": "Menampilkan Menu Kerang",
+                  "title": "𝙈𝙀𝙉𝙐 𝙆𝙀𝙍𝘼𝙉𝙂",
+                  "description": "Menampilkan Menu Kerang ArullBotz",
                   "rowId": `${_p}? kerang`
                 }, {
-                  "title": "☰ MAKER MENU",
-                  "description": "Menampilkan Menu Maker",
+                  "title": "𝙈𝙀𝙉𝙐 𝙈𝘼𝙆𝙀𝙍",
+                  "description": "Menampilkan Menu Maker ArullBotz",
                   "rowId": `${_p}? maker`
                 }, {
-                  "title": "☰ OWNER MENU",
-                  "description": "Menampilkan Menu Owner",
+                  "title": "𝙈𝙀𝙉𝙐 𝙊𝙒𝙉𝙀𝙍",
+                  "description": "Menampilkan Menu Owner ArullBotz",
                   "rowId": `${_p}? owner`
                 }, {
-                  "title": "☰ CHANGE VOICE MENU",
-                  "description": "Menampilkan Menu Voice Changer",
+                  "title": "𝙈𝙀𝙉𝙐 𝙑𝙊𝙄𝘾𝙀",
+                  "description": "Menampilkan Menu Voice ArullBotz",
                   "rowId": `${_p}? suara`
                 }, {
-                  "title": "☰ PREMIUM MENU",
-                  "description": "Menampilkan Menu Premium",
+                  "title": "𝙈𝙀𝙉𝙐 𝙋𝙍𝙀𝙈𝙄𝙐𝙈",
+                  "description": "Menampilkan Menu Premium ArullBotz",
                   "rowId": `${_p}? premium`
                 }, {
-                  "title": "☰ QUOTES MENU",
-                  "description": "Menampilkan Menu Quotes",
+                  "title": "𝙈𝙀𝙉𝙐 𝙌𝙊𝙐𝙏𝙀𝙎",
+                  "description": "Menampilkan Menu Quotes ArullBotz",
                   "rowId": `${_p}? quotes`
                 }, {
-                  "title": "☰ RPG MENU",
-                  "description": "Menampilkan Menu Rpg",
+                  "title": "𝙈𝙀𝙉𝙐 𝙍𝙋𝙂",
+                  "description": "Menampilkan Menu Rpg ArullBotz",
                   "rowId": `${_p}? rpg`
                 }, {
-                  "title": "☰ STALKER MENU",
-                  "description": "Menampilkan Menu Stalker",
+                  "title": "𝙈𝙀𝙉𝙐 𝙎𝙏𝘼𝙇𝙆𝙀𝙍",
+                  "description": "Menampilkan Menu Stalker ArullBotz",
                   "rowId": `${_p}? stalk`
                 }, {
-                  "title": "☰ SHORT LINK MENU",
-                  "description": "Menampilkan Menu Short Link",
+                  "title": "𝙈𝙀𝙉𝙐 𝙎𝙃𝙊𝙍𝙏 𝙇𝙄𝙉𝙆",
+                  "description": "Menampilkan Menu Short Link ArullBotz",
                   "rowId": `${_p}? shortlink`
                 }, {
-                  "title": "☰ TOOLS MENU",
-                  "description": "Menampilkan Menu Tools",
+                  "title": "𝙈𝙀𝙉𝙐 𝙏𝙊𝙊𝙇𝙎",
+                  "description": "Menampilkan Menu Tools ArullBotz",
                   "rowId": `${_p}? tools`
                 }, {
-                  "title": "☰ TEXT MAKER MENU",
-                  "description": "Menampilkan Maker Text",
+                  "title": "𝙈𝙀𝙉𝙐 𝙈𝘼𝙆𝙀𝙍 𝙏𝙀𝙓𝙏",
+                  "description": "Menampilkan Maker Text ArullBotz",
                   "rowId": `${_p}? text`
                 }, {
-                  "title": "☰ HENTAI MENU",
-                  "description": "Menampilkan Menu Hentai",
+                  "title": "𝙈𝙀𝙉𝙐 𝙃𝙀𝙉𝙏𝘼𝙄",
+                  "description": "Menampilkan Menu Hentai ArullBotz",
                   "rowId": `${_p}? nsfw`
                 }, {
-                  "title": "☰ RANDOM MENU",
-                  "description": "Menampilkan Menu Random/Gabut",
+                  "title": "𝙈𝙀𝙉𝙐 𝙍𝘼𝙉𝘿𝙊𝙈",
+                  "description": "Menampilkan Menu Random/Gabut ArullBotz",
                   "rowId": `${_p}? random`
                 }, {
-                  "title": "☰ TEXT PRO MENU",
-                  "description": "Menampilkan Text Pro Menu",
+                  "title": "𝙈𝙀𝙉𝙐 𝙏𝙀𝙓𝙏 𝙋𝙍𝙊",
+                  "description": "Menampilkan Text Pro Menu ArullBotz",
                   "rowId": `${_p}? textpro`
                 }, {
-                  "title": "☰ PHOTO OXY MENU",
-                  "description": "Menampilkan Photo Oxy Menu",
+                  "title": "𝙈𝙀𝙉𝙐 𝙁𝙊𝙏𝙊 𝙊𝙓𝙔",
+                  "description": "Menampilkan Photo Oxy Menu ArullBotz",
                   "rowId": `${_p}? textpro`
                 }
                   ],
                 "title": "⤿LIST MENU"
                 }, {
                 "rows": [{
-                  "title": ` ☰ OWNER BOT`,
-                  "description": "Nomor Pemilik Bot! save? Save ae🗿",
+                  "title": `𝗢𝗪𝗡𝗘𝗥 𝗔𝗥𝗨𝗟𝗟𝗕𝗢𝗧𝗭`,
+                  "description": "Nomor Pemilik Bot! save? Save ae,Kalo cewe,minimal 16 tahun🗿👍",
                   "rowId": `.owner`
                 },{
-                  "title": "☰ INFO BOT",
-                  "description": "Menampilkan Menu Info",
+                  "title": "𝗜𝗡𝗙𝗢 𝗔𝗥𝗨𝗟𝗟𝗕𝗢𝗧𝗭",
+                  "description": "Menampilkan Menu Info ArullBotz",
                   "rowId": `${_p}? info`
                 }],
                 "title": "⤿INFORMASI BOT"
